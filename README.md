@@ -1,7 +1,7 @@
 Example code:
-``	data = {...}
+```	data = {...}
 	from dumper import dump
-	dump('', data, 0)``
+	dump('', data, 0)```
 
 Run tests:
 	``python3 tests.py``
